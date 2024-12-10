@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "formidable": "^3.5.2",
+    "nodemailer": "^6.9.16",
     "upper-case": "^2.0.2"
   }
 }
